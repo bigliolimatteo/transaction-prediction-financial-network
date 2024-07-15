@@ -1,0 +1,1 @@
+{"mean_average_precision_score": 0.6532720242017275, "num_gnn_layers": 1, "update": "gru", "hidden_dim": 512}

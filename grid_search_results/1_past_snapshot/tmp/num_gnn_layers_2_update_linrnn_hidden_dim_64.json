@@ -1,0 +1,1 @@
+{"mean_average_precision_score": 0.6350936968592534, "num_gnn_layers": 2, "update": "linrnn", "hidden_dim": 64}
